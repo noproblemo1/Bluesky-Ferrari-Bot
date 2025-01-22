@@ -1,4 +1,4 @@
-# Carolina Hurricanes Bluesky Bot
+# Scuderia Ferrari HP Bluesky Bot
 
 This is a bot that automatically reposts the Twitter posts of Scuderia Ferrari HP to [Bluesky](https://bsky.app/). Because the Twitter API now costs money to use, this bot instead collects data from the Walt Ruff Mastodon API created by sportsbots.xyz. It uses [TypeScript](https://www.typescriptlang.org/) to build the bot and [GitHub Actions](https://docs.github.com/en/actions) to schedule the posts. Although this repository is specifically for Walt Ruff, this codebase could be leveraged to produce bots to repost other Mastodon profiles to Bluesky without too much additional effort.
 
